@@ -87,7 +87,7 @@ These two lines of code execute the sql variable and commits the changes made in
 - Now that the database will be created with the three main categories (amount, category, message), this step focuses on how to add data to your database.
 - Create a new variable to store the date&time using the `datetime` module.
 - Create another variable for user input and for this you can use pythons built-in `input` function, which will handle input from the user and output it at the terminal.
-- The next lines ensure that the user input and date inofrmation are added to your database. Then executes the sql and date variables and commits the changes made in the previous lines
+- The next lines ensure that the user input and date information are added to your database. Then executes the sql and date variables and commits the changes made in the previous lines
 
 ```py
 date = str(datetime.now())         
