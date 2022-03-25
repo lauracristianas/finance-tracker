@@ -6,15 +6,12 @@
 - Learn how to input data directly from the terminal
 - *Optional* - Create a simple UI (user interface)
 <br>
-<br>
 
 ## Purpose of the project: 
--------- 
-<h4>&diams; Exercise and improve your Python knowledge</h4> 
-<h4>&diams; Automate receipt tracking and get information about your spendings </h4> 
+&diams; Exercise and improve your Python knowledge<br>
+&diams; Automate receipt tracking and get information about your spendings
 
 ## Prerequisites
---------------------
 - Python 3 installed to your device 
     - You can check this by opening
     `Command Prompt > Type Python Or py > Hit Enter`<br>
