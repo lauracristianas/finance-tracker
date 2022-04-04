@@ -2,7 +2,6 @@
 ## Main Objectives : 
 
 - Create a basic Finance Tracker Application on Python
-- Input receipt information to your newly created application, by code 
 - Learn how to input data directly from the terminal
 - *Optional* - Create a simple UI (user interface)
 <br>
@@ -111,7 +110,7 @@ I was happy to input my receipts using the terminal, but having a few buttons he
 
 Well, whatever your reason is, you are welcome to explore the UI section, which as I was saying it's very simple and in this case it's done using PyQt5. 
 
-You can of course go ahead and create a web application or create your own user interface, but if you are curious about the way I done it keep reading...(or click here for shortcut to code)
+You can of course go ahead and create a web application or create your own user interface, but if you are curious about the way I done it keep reading...
 
 In Part 1 the UI and finance tracker code will be in one file. It is not a recommended practice so this is mainly for the demostration purposes for this project. However in Part 2 I will post a different way that involves separating the projects code from the UI. 
 
